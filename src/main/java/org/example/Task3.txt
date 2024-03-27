@@ -1,0 +1,9 @@
+1. Consumer: Bu interfeys bitta kiruvchi qiymatni qabul qiladi va hech qanday qaytarish qilmaydi.
+
+2. Supplier: Bu interfeys hech qanday kiruvchi qiymatni qabul qilmasdan bir qiymatni qaytaradi.
+
+3. Predicate: Bu interfeys bitta kiruvchi qiymatni qabul qiladi va `true` yoki `false` qaytaradi.
+
+4. Function: Bu interfeys bitta kiruvchi qiymatni qabul qiladi va boshqa bir qiymatni qaytaradi.
+
+5. BiFunction: Bu interfeys ikkita kiruvchi qiymatni qabul qiladi va bitta qiymatni qaytaradi.
